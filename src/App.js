@@ -47,7 +47,7 @@ export function createApp() {
   counterValue.style.marginBottom = '1rem';
 
   const status = document.createElement('p');
-  status.textContent = 'Clique sur le bouton pour simuler un nouveau déploiement.';
+  status.textContent = 'Update.';
   status.style.fontSize = '0.9rem';
   status.style.color = '#a5b4fc';
   status.style.marginBottom = '1.5rem';
